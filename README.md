@@ -1,3 +1,12 @@
+# yas 房源信息展示项目管理端
+# 说明<br>
+如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^<br>
+# 技术栈<br>
+vue+vue-router+vuex+axios+element-ui
+## 启动数据库
+    npm install
+
+
 # element
 
 > lk
